@@ -23,6 +23,5 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 	region : attributes.uriParams.region
 }]]]></http:uri-params>
 		</http:request>
-		<set-payload value="Prarthana ki Maa ki Choot" doc:name="Set Payload" doc:id="8b5bd8ba-93ff-44c4-a764-4c7d1a7d2796" />
 	</flow>
 </mule>
