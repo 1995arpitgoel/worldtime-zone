@@ -38,7 +38,7 @@
 						<workers>1</workers>
 						<workerType>Micro</workerType>
 						<applicationName>worldtimezone-service</applicationName>
-						<password>Azure@30031995</password>
+						<password>Azure30031995</password>
 						<muleVersion>4.3.0</muleVersion>
 					</cloudHubDeployment>
 				</configuration>
