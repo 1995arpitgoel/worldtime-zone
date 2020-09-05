@@ -33,13 +33,15 @@
 				<extensions>true</extensions>
 				<configuration>
 					<cloudHubDeployment>
+					<objectStoreV2>true</objectStoreV2>
 						<username>arpitgoelcicd</username>
 						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
-						<applicationName>worldtimezone-service-agag</applicationName>
+						<applicationName>worldtimezone-service-agaghhchchcjxjx</applicationName>
 						<password>Azure30031995</password>
 						<muleVersion>4.3.0</muleVersion>
+						
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
